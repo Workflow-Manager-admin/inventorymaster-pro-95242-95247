@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for InventoryMaster Pro', 'description': 'Primary container for InventoryMaster Pro implementation: A comprehensive inventory management system designed to streamline procurement, tracking, and stock management processes for businesses. The app covers key inventory functions including purchase indents, goods receipt notes (GRN), inter-branch transfers (IBT), and real-time stock dashboards with par level inventory monitoring.', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
